@@ -1,8 +1,6 @@
 
 
-h1{
-    color:coral;
-}
+
 
 body, a{
     color:coral;
@@ -26,6 +24,7 @@ body, a{
     letter-spacing:0.2em;
     text-align: center;
 }
+
 
 /*
 .box-1{

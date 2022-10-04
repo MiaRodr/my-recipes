@@ -4,7 +4,8 @@ img {
     width: 250px;
 }
 
-.main .page-1 {
+.main, 
+.page-1 {
     color: coral;
     font: bold, 14px, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     

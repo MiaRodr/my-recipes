@@ -1,10 +1,18 @@
 
+img {
+    height: auto;
+    width: 250px;
+}
 
+.main,
+.page-1 {
+    color: coral;
+    font: bold, 14px, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
 
-
-
-
-.container{ 
+/*
+.container { 
        
         font: bold, 14px, verdena, geneva, Tahoma, sans-serif;
         line-height:1.6em;
@@ -26,12 +34,13 @@
         font-size:14px;
         font-weight:bold;
         /*same as above */
-}
 
+/*
 .container-2 {
     color: coral;
 }
 
+*/
 /*
 .box-1{
     border-right:5px coral solid;

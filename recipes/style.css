@@ -1,5 +1,5 @@
 img {
-    border-radius: 200px;
+    border-radius: 100px;
     height: auto;
     width: 300px;
     display: block;
@@ -21,13 +21,22 @@ img {
 rgb(200, 35, 225);
     display: inline-block;
     margin-bottom: 20px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     
+}
+
+#title {
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 30px;
+    text-shadow: 3px 3px 7px grey;
 }
 
 
 h1 {
     text-align: center;
-    font-size: 40;
     letter-spacing: 2px;
 }
 
@@ -40,6 +49,7 @@ h1 {
     height: auto;
     height: 100%;
     margin: 0 auto -20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -49,3 +59,11 @@ html, body {
     background-color:bisque; 
 }
 
+footer {
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 2.5rem;
+   text-align: center;
+
+}

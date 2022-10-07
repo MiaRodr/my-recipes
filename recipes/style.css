@@ -26,10 +26,13 @@ img {
     box-shadow: 0 8px 16px 0
 rgb(200, 35, 225);
     display: inline-block;
-    margin: 15px 10px 10px 0;
+    margin: 40px 10px 10px 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.ind {
+    text-indent: 30px;
+}
 
 .cntr {
     text-align: center;
@@ -39,7 +42,7 @@ rgb(200, 35, 225);
     font-size: 60px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-bottom: 50px;
+    margin: 40px 0 40px 0;
     text-shadow: 3px 3px 7px grey;   
 }
 
@@ -66,6 +69,7 @@ html, body {
     height: 100%;
     margin: 0;
     background-color:bisque; 
+    padding: 10px;
 }
 
 footer {

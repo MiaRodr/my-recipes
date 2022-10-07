@@ -1,7 +1,7 @@
 # my-recipes
 A collection of my favorite dishes
 <br>
-First official project using only html
+First official project using only html/css
 <br>
 Learned how to add style to specific elements using correct selectors 
 <br>

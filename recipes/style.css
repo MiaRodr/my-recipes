@@ -38,7 +38,7 @@ rgb(200, 35, 225);
     text-align: center;
 }
 
-#title {
+#title {  
     font-size: 60px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -57,20 +57,29 @@ h2 {
 .page-3,
 .page-4 {
     color: rgb(200, 35, 225);
-    min-height: 100%;
-    height: auto;
-    height: 100%;
-    margin: 0 auto -20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*
+margin: 0 auto -20px;
+ min-height: 100%;
+    height: auto;
+    height: 100%;
+*/
 
 /* covers entire page with no breaks */
 html, body {
-    height: 100%;
-    margin: 0;
+   background-color: bisque;
+   width: 1000px;
+   border: 25px solid grey;
+   padding: 5px;
+   margin: 10px;
+}
+/*
+  height: 100%;
+    margin: 0px;
     background-color:bisque; 
     padding: 10px;
-}
+*/
 
 footer {
    position: absolute;

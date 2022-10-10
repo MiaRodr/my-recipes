@@ -19,7 +19,7 @@ img {
     color:bisque;
     text-decoration: none;
     font-size: 16px;
-    padding: 10px 10px;
+    padding: 15px 15px;
     border-style: none;
     cursor: pointer;
     border-radius: 20px;
@@ -72,9 +72,9 @@ html, body {
    background-color: bisque;
    width: 1100px;
    border: 25px solid rgb(97, 103, 111);
-   padding: 5px;
-   margin: 20px;
-   border-radius: 20px;
+   padding: 15px;
+   margin: 30px;
+   border-radius: 75px;
 }
 /*
 original syntax for html, body
@@ -91,5 +91,6 @@ footer {
    height: 1rem;
    text-align: center;
    color: grey;
+   margin: 0 0 0 15%;
 
 }
